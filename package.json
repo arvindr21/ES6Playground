@@ -1,0 +1,29 @@
+{
+  "name": "ES6Playground",
+  "version": "0.0.0",
+  "description": "An ES6 Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arvindr21/ES6Playground.git"
+  },
+  "keywords": [
+    "ES6",
+    "playground",
+    "harmony"
+  ],
+  "author": "Arvind Ravulavaru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arvindr21/ES6Playground/issues"
+  },
+  "homepage": "https://github.com/arvindr21/ES6Playground",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-traceur": "0.0.3"
+  }
+}
