@@ -11,4 +11,4 @@ Usage
 -----
 With Grunt watch task running, write ES6 code @ src/app.js. Save the file and build/app.js will be generated with the transpiled code.
 
-Tutorial : http://thejackalofjavascript.com/ecmascript-6-playing-around-in-harmony/
+Tutorial : http://thejackalofjavascript.com/es6-playing-around-in-harmony/
